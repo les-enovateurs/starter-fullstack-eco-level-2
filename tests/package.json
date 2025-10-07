@@ -14,7 +14,7 @@
     "lint:fix": "prettier --write \"**/*.{js,ts,json}\""
   },
   "keywords": ["playwright", "e2e", "testing"],
-  "author": "Digital Campus",
+  "author": "Jérémy Pastouret",
   "license": "MIT",
   "type": "module",
   "devDependencies": {
